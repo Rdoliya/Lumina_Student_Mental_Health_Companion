@@ -1,40 +1,4 @@
-"""
-================================================================================
-LUMINA - Student Mental Health Companion
-================================================================================
-
-Application Name: Lumina - Student Mental Health Companion
-Purpose: Provide empathetic, context-aware responses to students based on their 
-         emotional state, with built-in safety mechanisms for crisis situations.
-
-Developer: Rishyup Doliya
- | Rishyup.doliya@gmail.com
-LinkedIn: www.linkedin.com/in/rishyup-doliya-833b352b0/
-GitHub: https://github.com/rishyup
-
-================================================================================
-DEPENDENCIES
-================================================================================
-Install required packages using:
-    pip install streamlit vaderSentiment pandas plotly
-
-Python Version: 3.8+
-
-================================================================================
-USAGE INSTRUCTIONS
-================================================================================
-1. Install dependencies: pip install streamlit vaderSentiment pandas plotly
-2. Run the application: streamlit run lumina_mental_health.py
-3. Open the displayed URL in your web browser
-4. Share your thoughts and feelings in the chat interface
-5. Use sidebar features for mood tracking and breathing exercises
-
-================================================================================
-"""
-
-# =============================================================================
 # IMPORTS
-# =============================================================================
 import streamlit as st
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import pandas as pd
@@ -42,9 +6,7 @@ import plotly.graph_objects as go
 from datetime import datetime
 import re
 
-# =============================================================================
 # CONFIGURATION & CONSTANTS
-# =============================================================================
 
 # Color Scheme - Dark & Relaxing palette
 COLORS = {
