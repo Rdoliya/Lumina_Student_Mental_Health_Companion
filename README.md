@@ -40,10 +40,9 @@ A production-ready Streamlit application designed to provide empathetic, context
 ## 👨‍💻 Developer Information
 
 **Rishyup Doliya**
-- 📱 Phone: +91 7206988702
 - 📧 Email: Rishyup.doliya@gmail.com
 - 🔗 LinkedIn: [www.linkedin.com/in/rishyup-doliya-833b352b0/](https://www.linkedin.com/in/rishyup-doliya-833b352b0/)
-- 💻 GitHub: [https://github.com/rishyup](https://github.com/rishyup)
+- 💻 GitHub: [https://github.com/rishyup](https://github.com/Rdoliya)
 
 ### Background
 - **Education**: Bachelor of Technology in AI & DS, CGC LANDRAN (Expected 2027)
