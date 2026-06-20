@@ -1,0 +1,78 @@
+RISHYUP DOLIYA
+⋄ Chandigarh,India
+Rishyup.doliya@gmail.com ⋄ www.linkedin.com/in/rishyup-doliya-833b352b0/ ⋄ https://github.com/rishyup
+OBJECTIVE
+Data Analyst fresher , seeking full time roles.
+EDUCATION
+Bachelor of Technology AI&DS, CGC LANDRAN
+
+Expected 2027
+
+Intermediate (CBSE) , G.D.P.S. (77%)
+
+2021-2022
+
+Intermediate (CBSE) , G.D.P.S. (77%)
+
+2021-2022
+
+SKILLS
+Technical Skills
+
+PYTHON , C/C++ , JAVA
+
+Soft Skills
+
+Decision making , Coordination , Time Management , Fast Learner
+
+XYZ
+
+My SQL , Data Analytics , Gen AI , Power BI , Tableau , ML , NLP , DL Excel
+
+EXPERIENCE
+ML INTERN
+
+May – July 2025
+
+Zillion Skills
+
+Remote
+
+Served as a Machine Learning with Python intern at Zillion Skills Technologies, a 6-week virtual
+program that provided practical experience in AI and data science. This opportunity allowed me to
+apply my skills and contribute to a professional environment
+AI ENGINEER
+EDUNET FOUNDATION
+
+NOV2025-PRESENT
+REMOTE
+
+Engineered and deployed an end-to-end Machine Learning model—from data
+preprocessing and Exploratory Data Analysis (EDA) to model training—utilizing
+Python, Scikit-learn, and Pandas.
+PROJECTS
+●
+
+HealthMitra: :- Developed HealthMitra, an AI-powered health assistant that provides instant, reliable, and safe
+health information to users using a Large Language Model.
+
+● ATS RESUME ANALYSER:- Developed a full-stack web application that uses NLP with spaCy to analyze and score
+
+resumes for Applicant Tracking System (ATS) compatibility, providing real-time visualization and actionable
+suggestions.
+
+●
+
+Music Genre Classification:- Engineered a machine learning pipeline using Python (Pandas, Scikit-Learn) to
+classify 32,833 songs into six distinct genres based on 10 high-dimensional audio features.
+
+EXTRA-CURRICULAR ACTIVITIES
+• 4 patents in different industries
+• Writing research papers and book chapters since 2024
+LEADERSHIP
+Coordintated :
+• National science day -2025
+• Aqua pie day-2025
+• ICIC conference student coordinator-2025
+
+
