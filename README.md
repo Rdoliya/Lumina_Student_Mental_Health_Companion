@@ -121,6 +121,10 @@ A production-ready Streamlit application designed to provide empathetic, context
    - The application will automatically open in your default web browser
    - Or manually navigate to `http://localhost:8501`
 
+     *OR*
+     -You can use the Application online on its own website.
+     <https://luminamentalhealth.streamlit.app/>
+
 ### User Guide
 
 1. **Welcome Screen**: Read the introduction and purpose of Lumina
